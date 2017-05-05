@@ -1,1 +1,1 @@
-readme
+echo "My learning-R repository"
